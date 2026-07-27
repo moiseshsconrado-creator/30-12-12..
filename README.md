@@ -1,4 +1,4 @@
-i<html lang="es">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -530,7 +530,7 @@ i<html lang="es">
         <!-- FOTO DE INFÂNCIA NO SEU PRÓPRIO QUADRO -->
         <section class="photo-card">
             <div class="photo-box-small">
-                <img src="infancia.jpg" alt="Foto especial" onerror="this.src='https://via.placeholder.com/160x200?text=Foto+Infancia';">
+                <img src="IMG-20260727-WA0020.jpg" alt="Foto especial">
             </div>
             <p>¿Quién diría que esta niña tan pequeña se convertiría en esta mujer tan increíble? Creo que tuve mucha suerte de conocerte y espero de corazón que esta amistad nunca se acabe. ✨</p>
         </section>
@@ -680,3 +680,4 @@ i<html lang="es">
     </script>
 </body>
 </html>
+
